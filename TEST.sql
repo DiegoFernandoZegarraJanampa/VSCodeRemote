@@ -1,1 +1,1 @@
-
+select * from inv_material_txns
